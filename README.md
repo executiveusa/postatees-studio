@@ -8,7 +8,7 @@ If you've cloned this repository locally and want to push it to your own GitHub 
 
 1. **Navigate to your project directory:**
    ```bash
-   cd /home/claude
+   cd /path/to/postatees-studio
    ```
 
 2. **Add your GitHub repository as remote:**
